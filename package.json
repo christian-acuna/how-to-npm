@@ -1,0 +1,27 @@
+{
+  "name": "how-to-npm",
+  "version": "1.0.0",
+  "description": "learning how to npm nigga",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Christian Acuna",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "fuck",
+    "yea"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christian-mingles/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/christian-mingles/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/christian-mingles/how-to-npm#readme"
+}
